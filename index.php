@@ -1,3 +1,7 @@
+<?php
+die(header("Location: /"));
+?>
+
 <!doctype html>
 <! –– Aditya Anugrah ––>
     <html lang="en-US" class="xv-responsive" prefix="og: http://ogp.me/ns#">
